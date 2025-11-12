@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 # Big Data Management Project — COVID-19 (Kaggle)
-# Fully aligned with professor's requirements:
 # - Kaggle CSV dataset (covid_19_data.csv)
 # - 3 batch queries in Apache Spark
 # - Experimental evaluation (execution times)
-# - Export outputs to a NoSQL store (MongoDB) [optional]
-# - Saves CSV outputs for evidence/screenshots
+# - Export outputs to a NoSQL store (MongoDB)
 
 import time
 from statistics import mean
